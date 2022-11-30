@@ -1,3 +1,7 @@
+#Program umożliwia:
+#  -wyświetlenie listy kolejnych liczb pierwszych
+#  -wyświetlenie rozkładu liczy na czynniki pierwsze
+
 def input_integer(prompt):
     '''Funkcja służąca do pobierania z konsoli liczb całkowitych.\n''' \
     '''W przypadku, gdy wpeowadzony ciąg konwertuje się do liczby całkowitej, ''' \
